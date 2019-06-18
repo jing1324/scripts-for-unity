@@ -1,2 +1,2 @@
-# C-scripts-for-unity
+# C#scripts-for-unity
 Some C# scripts I wrote for some projects
